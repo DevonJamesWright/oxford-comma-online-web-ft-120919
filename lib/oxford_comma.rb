@@ -6,3 +6,4 @@ when array <= 2
 when array >= 3
   array.join ("," , "and")
 end
+end
